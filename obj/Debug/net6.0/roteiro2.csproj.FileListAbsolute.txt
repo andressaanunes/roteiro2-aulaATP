@@ -1,0 +1,15 @@
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.csproj.AssemblyReference.cache
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.AssemblyInfoInputs.cache
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.AssemblyInfo.cs
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.csproj.CoreCompileInputs.cache
+C:\temp\roteiro2\bin\Debug\net6.0\roteiro2.exe
+C:\temp\roteiro2\bin\Debug\net6.0\roteiro2.deps.json
+C:\temp\roteiro2\bin\Debug\net6.0\roteiro2.runtimeconfig.json
+C:\temp\roteiro2\bin\Debug\net6.0\roteiro2.dll
+C:\temp\roteiro2\bin\Debug\net6.0\roteiro2.pdb
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.dll
+C:\temp\roteiro2\obj\Debug\net6.0\refint\roteiro2.dll
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.pdb
+C:\temp\roteiro2\obj\Debug\net6.0\roteiro2.genruntimeconfig.cache
+C:\temp\roteiro2\obj\Debug\net6.0\ref\roteiro2.dll
